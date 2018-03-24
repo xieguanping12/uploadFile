@@ -1,0 +1,19 @@
+{
+    "name": "xieguanping/uploadfile",
+    "description": "upload file",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xieguanping12",
+            "email": "diudiu1148@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xieguanping\\": "src/"
+        }
+    }
+}
